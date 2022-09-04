@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas{
+    margin: 0 auto;
+}
+
+h1{
+    font-family: Montserrat;
+    color: white;
+}
+
+.block{
+    background-color: black;
+    width: 70%;
+    text-align: center;
+}
+
+.swipeslide{
+    margin-left: 20% !important;
+    padding: 0 !important;
+}
+
+.swipeslide1{
+    margin-left: 15% !important;
+    width: 90% !important;
+    padding: 0 !important;
+}
+
+.swipeslide2{
+    margin-left: 22% !important;
+    width: 85% !important;
+    padding: 0 !important;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url('./fonts/Montserrat-ExtraBold.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
